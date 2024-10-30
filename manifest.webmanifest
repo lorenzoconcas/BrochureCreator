@@ -1,1 +1,48 @@
-{"name":"Brochure Creator","short_name":"BrochureCreator","start_url":"/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/","description":"Utility per la creazione di Brochure per la Remax","theme_color":"#ffffff","icons":[{"src":"/icons/icon_16x16.png","sizes":"16x16","type":"image/png"},{"src":"/icons/icon_32x32.png","sizes":"32x32","type":"image/png"},{"src":"/icons/icon_64x64.png","sizes":"64x64","type":"image/png"},{"src":"/icons/icon_128x128.png","sizes":"128x128","type":"image/png"},{"src":"/icons/icon_256x256.png","sizes":"256x256","type":"image/png"},{"src":"/icons/icon_512x512.png","sizes":"512x512","type":"image/png"},{"src":"/icons/icon_1024x1024.png","sizes":"1024x1024","type":"image/png"}]}
+{
+    "name": "Brochure Creator",
+    "short_name": "BrochureCreator",
+    "start_url": "https://lorenzoconcas.github.io/BrochureCreator/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "lang": "it",
+    "scope": "https://lorenzoconcas.github.io/BrochureCreator/",
+    "description": "Utility per la creazione di Brochure per la Remax",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "icons/icon_16x16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon_32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon_64x64.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon_128x128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon_256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon_512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon_1024x1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        }
+    ]
+}
