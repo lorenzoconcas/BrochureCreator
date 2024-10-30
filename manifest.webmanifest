@@ -1,11 +1,11 @@
 {
     "name": "Brochure Creator",
     "short_name": "BrochureCreator",
-    "start_url": "https://lorenzoconcas.github.io/BrochureCreator/",
+    "start_url": "/BrochureCreator/",
     "display": "standalone",
     "background_color": "#ffffff",
     "lang": "it",
-    "scope": "https://lorenzoconcas.github.io/BrochureCreator/",
+    "scope": "/BrochureCreator/",
     "description": "Utility per la creazione di Brochure per la Remax",
     "theme_color": "#ffffff",
     "icons": [
